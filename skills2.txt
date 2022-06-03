@@ -2,3 +2,6 @@ unix
 bash
 git
 JS
+HTML
+CSS
+
