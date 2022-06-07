@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8">
+    <title>Lista de amigos/title>
+  </head>
+  <body>
+    <h1>Exercícios</h1>
+    <ul>
+        <li> rafa</li>
+        <li> joao</li>
+        <li> tales</li>
+    <ul>
+    <p>Rafa me ajudou com uma duvida<p>    
+    <p>joao me ensinou um comando novo<p> 
+    <p>expliquei uma função ao tales<p> 
+    <a href="" target="google.com">Google</a>
+  </body>
+</html>
