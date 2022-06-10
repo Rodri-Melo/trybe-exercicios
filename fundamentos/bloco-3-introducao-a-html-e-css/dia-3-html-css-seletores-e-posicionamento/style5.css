@@ -26,5 +26,23 @@ ol li em{
     background-color: pink;
 }
 #aliados li a:hover {
-    font-weight: 700; 
+    font-weight: 700;
+      
+}
+
+
+.cores li a[href="https://pt.stackoverflow.com/"]{
+    color: orange;
+}
+.cores li a[href="https://www.w3schools.com/"]{
+    color: green;
+}
+.cores li a[href="https://developer.mozilla.org/pt-BR/" ]{
+    color: black;
+}
+.cores li a[href="https://devdocs.io/"]{
+    color: yellow;
+}
+.cores li a[href="https://app.betrybe.com/"]{
+    color: rgba(10, 224, 28, 0.795);
 }
