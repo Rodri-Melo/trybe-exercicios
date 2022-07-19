@@ -1,0 +1,17 @@
+header {
+    font-size: 50px;
+    text-align:center;
+}
+
+.nav-links li {
+    display: inline;
+}
+
+aside {
+    font-size: 20px;
+    position: absolute;
+    float: right;  
+    width: 45%;
+    top: 90px;
+    left: 750px;    
+}
