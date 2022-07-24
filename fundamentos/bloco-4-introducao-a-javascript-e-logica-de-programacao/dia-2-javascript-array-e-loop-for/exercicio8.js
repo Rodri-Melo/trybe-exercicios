@@ -1,12 +1,12 @@
-let counter = 1;
+let array = [];
 
-console.log(counter);
 
-while (counter < 25) {
-    counter += 1;
-    console.log(counter);
+for (let counter = 1; counter <= 25; counter += 1) {
+    if (counter < 26) {
+        array.push(counter);
+
+    }
 }
 
 
-
-console.log(counter);
+console.log(array);
