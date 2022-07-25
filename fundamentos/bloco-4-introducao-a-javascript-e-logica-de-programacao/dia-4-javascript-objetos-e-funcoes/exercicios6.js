@@ -11,7 +11,7 @@ let leitor = {
     ],
   };
 
-  for (let key in leitor) {
+  
     console.log('o livro favorito de ' + leitor.nome + ' ' + leitor.sobrenome + 'se chama ' + leitor.livrosFavoritos[0].titulo  );
 
-  }
+ 
